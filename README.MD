@@ -8,8 +8,8 @@ Este é um projeto Python simples com interface gráfica que demonstra o uso de 
 
 ## 📸 Captura de Tela
 
-![Exemplo da interface](imagens\image.png)
-![Exemplo da interface](imagens\image_2.png)
+![Exemplo da interface](imagens/image.png)
+![Exemplo da interface](imagens/image_2.png)
 
 ---
 
