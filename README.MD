@@ -6,12 +6,6 @@ Este é um projeto Python simples com interface gráfica que demonstra o uso de 
 
 ---
 
-## 📸 Captura de Tela
-
-*(Adicione uma imagem aqui, se desejar, mostrando a interface gráfica)*
-
----
-
 ## 📦 Requisitos
 
 - Python 3.7 ou superior
