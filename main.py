@@ -7,16 +7,11 @@ from ttkbootstrap.dialogs import dialogs
 
 class MinhaInterface:
     def __init__(self):
-        self.local_salvar_imagens=None
-
         self.root = ttk.Window(themename='vapor')
         self.root.title("Exemplos Barra de progresso")
-        # self.root.geometry("1057x493")
-
+ 
         self.status_execucao = False
 
-
-        # Objeto do Medidor
         """
         TODOS OS PARÂMETROS DO METER
 
@@ -103,6 +98,8 @@ class MinhaInterface:
 
             # Garantindo que no final da função vai aparecer 100%
             self.atualizar_progresso_geral(100)
+
+            # Mudando o status da execução
             self.mudar_status_execucao(False)
         else:
             print('Você ja está executando... espere acabar a execução atual.')
